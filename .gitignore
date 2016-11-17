@@ -57,3 +57,4 @@ codec/build/iOS/dec/welsdec/build/
 # editor files
 *~
 
+.DS_Store
