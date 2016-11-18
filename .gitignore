@@ -48,3 +48,4 @@ testbin/test.yuv
 
 # pkg-config file
 *.pc
+.DS_Store
